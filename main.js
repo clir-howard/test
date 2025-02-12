@@ -1,4 +1,4 @@
 funciton main() {
 	console.log("hello world")
-	return "dlp-test"
+	return "dlp-test-2"
 }
