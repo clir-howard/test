@@ -1,4 +1,4 @@
 funciton main() {
-	console.log("hello world")
+	console.log("toyota")
 	return "toyota"
 }
